@@ -1,0 +1,21 @@
+{
+  "name": "update-customer-segment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ucs": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "got": "^7.0.0",
+    "oauth-1.0a": "^2.1.1",
+    "oauth-signature": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leoluz",
+  "license": "MIT"
+}
